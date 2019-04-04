@@ -4,25 +4,24 @@ A bank simulator using mutexes and semaphores.
 In this little project, I implemented a parallel bank simulator that maintains any number of accounts, In addition to a variable number of ATMs, that are used to access the accounts.
 
 Description:
-  - Transaction:
+  - Transaction:<br/>
+    The Bank offers a variety of transactions: Account opening, Cash withdrawal, Cash deposit, Balance inquiry, Transfer and turning an account into VIP.
+    Each transaction takes a second, This means that two ATMs cannot access the same account at the same time.
   
-      The Bank offers a variety of transactions: Account opening, Cash withdrawal, Cash deposit, Balance inquiry, Transfer and turning an account into VIP.
-      Each transaction takes a second, This means that two ATMs cannot access the same account at the same time.
-  - Account:
+  - Account:<br/>
+    Each account has the following properties: Unique ID, Password, Balance.
   
-      Each account has the following properties: Unique ID, Password, Balance.
-  - ATM:
+  - ATM:<br/>
+    An ATM can perform one transaction every 100msec. Each ATM receives the transactions in a file given by the user.
+    Each transaction is written to a shared log file.
   
-      An ATM can perform one transaction every 100msec. Each ATM receives the transactions in a file given by the user.
-      Each transaction is written to a shared log file.
-  - The Bank:
+  - The Bank:  
+    The bank charges a commission from the non-VIP accounts every 3 seconds. 
+    The commission is at a random rate in the range of 2%-4%.
+    An ATM can't open a new account at the same time as the bank charges a fee.
   
-      The bank charges a commission from the non-VIP accounts every 3 seconds. 
-      The commission is at a random rate in the range of 2%-4%.
-      An ATM can't open a new account at the same time as the bank charges a fee.
-  - Snapshot:
-  
-      The bank displays the current balance of all the accounts, sorted by account number. the display is updated every 0.5 sec.
+  - Snapshot:  
+    The bank displays the current balance of all the accounts, sorted by account number. the display is updated every 0.5 sec.
       
       
 Data Structure Diagram:
