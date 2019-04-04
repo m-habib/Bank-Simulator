@@ -15,3 +15,8 @@ Description:
       The bank charges a commision from the non-VIP accounts every 3 seconds. 
       The commision is at a random rate in the range of 2%-4%.
       An ATM can't open a new account at the same time as the bank charges a fee.
+  - Snapshot:
+      The bank displays the current balance of all the accounts, sorted by account number. the display is updated every 0.5 sec.
+      
+      
+
