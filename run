@@ -1,0 +1,2 @@
+make
+./Bank 7 ./7_atms_example/*
