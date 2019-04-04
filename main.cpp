@@ -284,7 +284,6 @@ int main(int argc, char** argv) {
 			cout << "illegal arguments\n";
 		}
 	}
-
 	for (int i = 0; i < atms_N; i++)
 		pthread_join(threads[i], NULL);
 	atms_finished = true;
@@ -295,6 +294,5 @@ int main(int argc, char** argv) {
 	delete[] threads;
 	delete[] args;
 	return 0;
-
 }
 
