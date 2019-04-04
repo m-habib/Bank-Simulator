@@ -21,8 +21,11 @@ In this little project, I implemented a parallel bank simulator that maintains a
     An ATM can't open a new account at the same time as the bank charges a fee.
   
   - Snapshot:  
-    The bank displays the current balance of all the accounts, sorted by account number. the display is updated every 0.5sec.
-      
+    The bank displays the current balance of all the accounts, sorted by account number. the display is updated every 0.5sec.  
+      <p align="center">
+        <img src="Images/Snapshot.gif"> <br/>
+        Bank Snapshot
+      </p>
       
 **Data Structure Diagram:**
 
