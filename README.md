@@ -20,4 +20,7 @@ Description:
       The bank displays the current balance of all the accounts, sorted by account number. the display is updated every 0.5 sec.
       
       
+Data Structure Diagram:
+
+<img src="Images/Data_Structure_Diagram.jpg" width="40%" height="40%">
 
