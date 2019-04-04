@@ -3,7 +3,7 @@ A bank simulator using mutexes and semaphores.
 
 In this little project, I implemented a parallel bank simulator that maintains any number of accounts, In addition to a variable number of ATMs, that are used to access the accounts.
 
-Description:
+**Description:**
   - Transaction:<br/>
     The Bank offers a variety of transactions: Account opening, Cash withdrawal, Cash deposit, Balance inquiry, Transfer and turning an account into VIP.
     Each transaction takes a second, This means that two ATMs cannot access the same account at the same time.
@@ -24,7 +24,7 @@ Description:
     The bank displays the current balance of all the accounts, sorted by account number. the display is updated every 0.5 sec.
       
       
-Data Structure Diagram:
+**Data Structure Diagram:**
 
 <p align="center">
 <img src="Images/Data_Structure_Diagram.jpg" width="40%" height="40%">
