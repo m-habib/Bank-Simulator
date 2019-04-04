@@ -15,6 +15,7 @@ using std::endl;
 using std::cout;
 
 #define MAXLINE 10000
+#define ERROR -1
 
 sem_t log_mutex;
 ofstream log_file;
