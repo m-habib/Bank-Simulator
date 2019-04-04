@@ -1,7 +1,7 @@
 # BankSimulator
 A bank simulator using mutexes and semaphores.
 
-In this little project, I implemented a parallel bank simulator that maintains any number of accounts, In addition to a variable number of ATMs, wich are used to access the accounts.
+In this little project, I implemented a parallel bank simulator that maintains any number of accounts, In addition to a variable number of ATMs, that are used to access the accounts.
 
 Description:
   - An Operation:
