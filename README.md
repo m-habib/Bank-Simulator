@@ -19,7 +19,7 @@ In this little project, I implemented a parallel bank simulator that maintains a
   - The Bank:  
     The bank charges a commission from the non-VIP accounts every 3 seconds. 
     The commission is at a random rate in the range of 2%-4%.
-    An ATM can't open a new account at the same time as the bank charges a fee.
+    An ATM can't open a new account at the same time as the bank charges the commission .
   
   - Snapshot:  
     The bank displays the current balance of all the accounts, sorted by account number. the display is updated every 0.5sec.  
@@ -27,7 +27,8 @@ In this little project, I implemented a parallel bank simulator that maintains a
         <img src="Images/Snapshot.gif"> <br/>
         Bank Snapshot
       </p>
-      
+
+<br/>
 **Data Structure Diagram:**
 
 <p align="center">
