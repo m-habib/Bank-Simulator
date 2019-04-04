@@ -27,5 +27,6 @@ Description:
       
 Data Structure Diagram:
 
+<p align="center">
 <img src="Images/Data_Structure_Diagram.jpg" width="40%" height="40%">
-
+</p>
