@@ -1,0 +1,7 @@
+How to run?
+  1) make
+  2) ./Bank <Number of ATMs – N> <ATM_1_input_file> <ATM_2_input_file> ... <ATM_N_input_file>
+
+Example:
+  $ make
+  $ ./Bank 7 ./7_atms_example/*
