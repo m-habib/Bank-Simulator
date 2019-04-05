@@ -22,7 +22,7 @@ In this little project, I developed a bank simulator. The bank maintains any num
     An ATM can perform one transaction every 100msec. Each ATM receives the transactions in a file given by the user.
   
   - The Bank:  
-    The bank charges a commission from the non-VIP accounts every 3 seconds.  
+    The bank charges its non-VIP accounts a commission every 3 seconds.  
     The commission is at a random rate in the range of 2%-4%.  
     An ATM can't open a new account at the same time as the bank charges the commission.
   
