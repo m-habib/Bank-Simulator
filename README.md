@@ -33,7 +33,7 @@ In this little project, I developed a bank simulator. The bank maintains any num
     The bank displays the current balance of all the accounts, sorted by account number. the display is updated every 0.5sec.  
       <p align="center">
         <img src="Images/Snapshot.gif"> <br/>
-        Bank Snapshot
+        Bank Snapshot, Wait for it!
       </p>
 <br/>
 
