@@ -12,7 +12,7 @@ In this little project, I developed a bank simulator. The bank maintains any num
 
 **Description:**
   - Transaction:<br/>
-    The Bank offers a variety of transactions: Account opening, Cash withdrawal, Cash deposit, Balance inquiry, Transfer and turning an account into VIP.  
+    The Bank offers a variety of transactions: Account opening, Cash withdrawal, Cash deposit, Balance inquiry, Transfer money between accounts, and turning an account into VIP.  
     Each transaction takes a second, This means that two ATMs cannot access the same account at the same time.
   
   - Account:<br/>
