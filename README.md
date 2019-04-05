@@ -20,13 +20,15 @@ In this little project, I developed a parallel bank simulator. The bank maintain
   
   - ATM:<br/>
     An ATM can perform one transaction every 100msec. Each ATM receives the transactions in a file given by the user.
-    Each transaction is written to a shared log file.
   
   - The Bank:  
     The bank charges a commission from the non-VIP accounts every 3 seconds.  
     The commission is at a random rate in the range of 2%-4%.  
     An ATM can't open a new account at the same time as the bank charges the commission.
   
+  - Log File:  
+    The ATMs write each transaction to a shared log file.  
+    
   - Snapshot:  
     The bank displays the current balance of all the accounts, sorted by account number. the display is updated every 0.5sec.  
       <p align="center">
