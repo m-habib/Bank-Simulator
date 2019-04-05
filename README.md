@@ -51,3 +51,5 @@ In this little project, I developed a bank simulator. The bank maintains any num
 &nbsp;&nbsp;&nbsp;Example:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$ make  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$ ./Bank 7 ./7_atms_example/*
+
+
