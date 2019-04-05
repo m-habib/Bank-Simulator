@@ -41,4 +41,5 @@ In this little project, I implemented a parallel bank simulator that maintains a
 &nbsp;&nbsp;&nbsp;2) ./Bank <Number of ATMs – N> <ATM_1_input_file> <ATM_2_input_file> ... <ATM_N_input_file>
 
 &nbsp;&nbsp;&nbsp;Example:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;./Bank 7 ./7_atms_example/*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$ make
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$ ./Bank 7 ./7_atms_example/*
