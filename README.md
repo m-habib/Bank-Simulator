@@ -20,7 +20,7 @@ In this little project, I developed a bank simulator. The bank maintains any num
   
   - ATM:<br/>
     An ATM can perform one transaction every 100msec. Each ATM receives the transactions in a file given by the user.  
-    You can find an example ![here](7_atms_example/atm1.txt).
+    You can find an example [here](7_atms_example/atm1.txt).
   
   - The Bank:  
     The bank charges its non-VIP accounts a commission every 3 seconds.  
