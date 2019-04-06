@@ -29,6 +29,7 @@ In this little project, I developed a bank simulator. The bank maintains any num
   
   - Log File:  
     The ATMs write each transaction to a shared log file.  
+    [Here](log_example.txt) you can find Log file example. 
     
   - Snapshot:  
     The bank displays the current balance of all the accounts, sorted by account number. the display is updated every 0.5sec.  
