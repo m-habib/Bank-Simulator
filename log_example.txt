@@ -1,0 +1,56 @@
+1: New account id is 12347 with password 0144 and initial balance 50
+Error 5: Your transaction failed - account id 77777 does not exist
+4: New account id is 77777 with password 0000 and initial balance 3000
+Error 2: Your transaction failed - account id 66666 does not exist
+Error 3: Your transaction failed - account id 66666 does not exist
+1: New account id is 22445 with password 8888 and initial balance 6000
+Error 5: Your transaction failed - account with the same id exists
+7: Account 77777 new balance is 2667 after 111 $ was deposited
+Error 2: Your transaction failed - account id 66666 does not exist
+Error 3: Your transaction failed - account id 66666 does not exist
+Bank: commissions of 3 % were charged, the bank gained 1 $ from account 12347
+Bank: commissions of 3 % were charged, the bank gained 180 $ from account 22445
+Bank: commissions of 3 % were charged, the bank gained 76 $ from account 77777
+4: Account 77777 new balance is 2544 after 123 $ was withdrew
+6: Account 77777 new balance is 2667 after 444 $ was withdrew
+1: Account 12347 new balance is 1249 after 1200 $ was deposited
+Error 3: Your transaction failed - account id 66666 does not exist
+5: Account 77777 new balance is 2345 after 123 $ was withdrew
+Error 3: Your transaction failed - account id 66666 does not exist
+1: Account 22445 new balance is 6320 after 500 $ was deposited
+7: Account 77777 new balance is 1901 after 444 $ was withdrew
+1: Account 22445 new balance is 5820 after 500 $ was withdrew
+1: New account id is 11111 with password 2222 and initial balance 600
+Bank: commissions of 2 % were charged, the bank gained 12 $ from account 11111
+Bank: commissions of 2 % were charged, the bank gained 24 $ from account 12347
+Bank: commissions of 2 % were charged, the bank gained 116 $ from account 22445
+4: Account 77777 new balance is 2135 after 234 $ was deposited
+5: Account 77777 new balance is 2369 after 234 $ was deposited
+1: Account 22445 new balance is 5204 after 500 $ was withdrew
+7: Account 77777 new balance is 2480 after 111 $ was deposited
+Bank: commissions of 2 % were charged, the bank gained 49 $ from account 77777
+1: New account id is 66666 with password 8888 and initial balance 600
+5: Account 77777 new balance is 2308 after 123 $ was withdrew
+7: Account 77777 new balance is 1864 after 444 $ was withdrew
+1: Account 22445 new balance is 4704 after 500 $ was withdrew
+1: New account id is 41241 with password 1212 and initial balance 8121
+Bank: commissions of 3 % were charged, the bank gained 17 $ from account 11111
+Bank: commissions of 3 % were charged, the bank gained 36 $ from account 12347
+Bank: commissions of 3 % were charged, the bank gained 141 $ from account 22445
+Bank: commissions of 3 % were charged, the bank gained 243 $ from account 41241
+Bank: commissions of 3 % were charged, the bank gained 18 $ from account 66666
+5: Account 77777 new balance is 2098 after 234 $ was deposited
+7: Account 77777 new balance is 2209 after 111 $ was deposited
+Bank: commissions of 3 % were charged, the bank gained 66 $ from account 77777
+Error 1: Your transaction failed - password for account id 12347 is incorrect
+5: Account 77777 new balance is 2020 after 123 $ was withdrew
+1: Account 12347 new balance is 689 after 500 $ was withdrew
+1: New account id is 99999 with password 1211 and initial balance 777
+7: Account 77777 new balance is 1576 after 444 $ was withdrew
+Bank: commissions of 4 % were charged, the bank gained 22 $ from account 11111
+Bank: commissions of 4 % were charged, the bank gained 27 $ from account 12347
+5: Account 77777 new balance is 1810 after 234 $ was deposited
+1: Account 22445 new balance is 4063 after 500 $ was withdrew
+Bank: commissions of 4 % were charged, the bank gained 162 $ from account 22445
+Bank: commissions of 4 % were charged, the bank gained 315 $ from account 41241
+Bank: commissions of 4 % were charged, the bank gained 23 $ from account 66666
