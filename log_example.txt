@@ -54,3 +54,5 @@ Bank: commissions of 4 % were charged, the bank gained 27 $ from account 12347
 Bank: commissions of 4 % were charged, the bank gained 162 $ from account 22445
 Bank: commissions of 4 % were charged, the bank gained 315 $ from account 41241
 Bank: commissions of 4 % were charged, the bank gained 23 $ from account 66666
+
+
