@@ -2,12 +2,11 @@
 Error 5: Your transaction failed - account id 77777 does not exist
 4: New account id is 77777 with password 0000 and initial balance 3000
 Error 2: Your transaction failed - account id 66666 does not exist
-Error 3: Your transaction failed - account id 66666 does not exist
 1: New account id is 22445 with password 8888 and initial balance 6000
 Error 5: Your transaction failed - account with the same id exists
 7: Account 77777 new balance is 2667 after 111 $ was deposited
+1: Transfer 50 from account 77777 to account 22445 new account balance is 2617 new target account balance is 6050
 Error 2: Your transaction failed - account id 66666 does not exist
-Error 3: Your transaction failed - account id 66666 does not exist
 Bank: commissions of 3 % were charged, the bank gained 1 $ from account 12347
 Bank: commissions of 3 % were charged, the bank gained 180 $ from account 22445
 Bank: commissions of 3 % were charged, the bank gained 76 $ from account 77777
@@ -54,5 +53,3 @@ Bank: commissions of 4 % were charged, the bank gained 27 $ from account 12347
 Bank: commissions of 4 % were charged, the bank gained 162 $ from account 22445
 Bank: commissions of 4 % were charged, the bank gained 315 $ from account 41241
 Bank: commissions of 4 % were charged, the bank gained 23 $ from account 66666
-
-
