@@ -25,7 +25,7 @@ In this little project, I developed a bank simulator. The bank maintains any num
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Cash withdrawal:**&nbsp;&nbsp;W \<account id\> \<password\> \<amount\>.  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Cash deposit:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D \<account id\> \<password\> \<amount\>.  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Balance inquiry:**&nbsp;&nbsp;&nbsp;&nbsp;B \<account id\> \<password\>.  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Transfer:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;T \<account id\> \<password\> \<target account\> \<amount\>.<br/><br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Transfer:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;T \<account id\> \<password\> \<target account\> \<amount\>.  
     You can find an example [here](7_atms_example/atm1.txt).
   
   - The Bank:  
