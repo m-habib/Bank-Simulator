@@ -20,12 +20,12 @@ In this little project, I developed a bank simulator. The bank maintains any num
   
   - ATM:<br/>
     An ATM can perform one transaction every 100msec. Each ATM receives the transactions in a file given by the user.  
-    Input file format:
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Account opening: O \<account id\> \<password\> \<initial balance\>.  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cash withdrawal: W \<account id\> \<password\> \<amount\>.  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cash deposit: D \<account id\> \<password\> \<amount\>.  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Balance inquiry: B \<account id\> \<password\>.  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Transfer: T \<account id\> \<password\> \<target account\> \<amount\>.<br/><br/>
+    Input file format:  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Account opening:** O \<account id\> \<password\> \<initial balance\>.  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Cash withdrawal:** W \<account id\> \<password\> \<amount\>.  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Cash deposit:**    D \<account id\> \<password\> \<amount\>.  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Balance inquiry:** B \<account id\> \<password\>.  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Transfer:**        T \<account id\> \<password\> \<target account\> \<amount\>.<br/><br/>
     You can find an example [here](7_atms_example/atm1.txt).
   
   - The Bank:  
